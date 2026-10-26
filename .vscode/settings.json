@@ -1,0 +1,14 @@
+{
+  "files.encoding": "utf8",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "selection",
+  "html.format.wrapLineLength": 0,
+  "html.format.contentUnformatted": "style,script,pre",
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true
+}
